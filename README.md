@@ -5,5 +5,6 @@
 <li>🔭 Im currently working on my major goal: get my Computer Science degree</li>
 <li>🤖 In my free time i study machine learning. Im currently learning the basics of TensorFlow</li>
 
-<h3 align="center"><img width="55%" align="center" src = "https://github-readme-stats.vercel.app/api?username=carlos-dani-dev&show_icons=true&bg_color="#000000" />
-<img width="36%" align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-dani-dev&)](https://github.com/anuraghazra/github-readme-stats" /></h3>
+
+<li>Come see my undergradute projects in computer science<li>
+<li>Come join me in my machine learning learning process with the FreeCodeCamp courses</li>
