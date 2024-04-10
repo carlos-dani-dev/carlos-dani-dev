@@ -6,5 +6,6 @@
 <p>🤖 In my free time i study machine learning. Im currently learning the basics of TensorFlow</p>
 <p></p>
 <h3>Currently working in</h3>
-<a href="" ><p>👨‍🎓 Come see my undergradute projects in computer science</p></a>
+<p>👨‍🎓 Come see my undergradute projects in computer science</p>
+<a href="" ></a>
 <p>📚 Come join me in my machine learning learning process with the FreeCodeCamp courses</p>
