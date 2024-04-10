@@ -3,7 +3,7 @@
 
 <h3>About me</h3>
 <p>🔭 Im currently working on my major goal: get my Computer Science degree</p>
-<p>🤖 In my free time i study machine learning. Im currently learning the basics of TensorFlow</p>
+<p>🤖 Im also working on scientific projects to detect deepfakes at UFPI (Piaui's Federal University)</p>
 <p></p>
 <h3>Currently working in</h3>
 <p>👨‍🎓 Come see my undergradute projects in computer science</p>
