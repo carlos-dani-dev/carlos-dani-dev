@@ -9,6 +9,6 @@
 <p></p>
 <p></p>
 <h3>Take a look at my latest studies related to deepfake detection</h3>
-<p><a href=“https://github.com/carlos-dani-dev/DeepFake_datasets_review“>📦 This is my constantly updated deepdfake datasets review slide deck</a></p>
+<p>📦<a href=“https://github.com/carlos-dani-dev/DeepFake_datasets_review“> This is my constantly updated deepdfake datasets review slide deck</a></p>
 <p>🔬 Here i train some neural networks and try to understand some of their main concepts</p>
 <p>📊 This is my web project related to deepfake datasets evaluation</p>
