@@ -5,8 +5,8 @@
 <p></p>
 <p></p>
 <h4 align="left">How im being useful to society</h4>
-<p>🔭 Im currently working on my major goal: get my Computer Science degree</p>
-<p>🤖 But im also working on deepfake detection and its biases using AI at UFPI</p>
+<p>🔭 Im currently working on my major goal: get my Computer Science degree <a href=''>Take a look</a></p>
+<p>🤖 But im also working on deepfake detection and its biases using AI at UFPI <a href=''>Take a look</a></p>
 <p></p>
 <p></p>
 <h4 align="left">My main projects</h4>
