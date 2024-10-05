@@ -1,15 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=30&center=true&vCenter=true&width=1000&lines=Hey+There!;Me+chamo+Carlos+Daniel.;Sou+um+entusiasta+de+IA+e+queria+te+mostrar+meus+projetos!)](https://git.io/typin)
-
-<h2 align="center"><strong>Hey there🫡</strong></h2>
-<h4 align="center">Aspiring anything (still working on it 😶‍🌫️) developer who whant to turn creative thinking into powerful solutions</h4>
+<h4 align="left">About me</h4>
+<p>👤 Im a 20 years old computer science student at UFPI - Universidade Federal do Piauí</p>
+<p>🌟 This area fascinates me because of the infinite number of ways I can make myself useful to society</p>
 <p></p>
 <p></p>
-<p></p>
-<h3>Currently working on</h3>
+<h4 align="left">How im being useful to society</h4>
 <p>🔭 Im currently working on my major goal: get my Computer Science degree</p>
-<p>🤖 Im also working on scientific projects to detect deepfakes at UFPI (Piaui's Federal University)</p>
+<p>🤖 But im also working on deepfake detection and its biases using AI at UFPI</p>
 <p></p>
 <p></p>
-<h3>Take a look at my latest studies related to deepfake detection</h3>
-<p>🔬 Here i train some neural networks and try to understand some of their main concepts  <a href=''>Take a look</a></p>
-<p>Im also constantly reviewing really cool scientific articles  <a href=''>Take a look</a></p>
+<h4 align="left">My main projects</h4>
+<p>🔬 My implementation of the MAAD MAC <a href=''>Take a look</a></p>
+<p>📊 My currently data science main project <a href=''>Take a look</a></p>
+<p></p>
+<p></p>
+<h4 align="left">Please, contact me</h4>
