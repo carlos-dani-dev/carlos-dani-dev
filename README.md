@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F4A460&size=30&center=true&vCenter=true&width=1000&lines=Olá!+Sou+a+Émery+Moriconi.;Bem-vindo(a)+ao+meu+perfil+do+GitHub!;Vamos+ser+amigos!;Hi!+My+name+is+Émery+Moriconi.;Welcome+to+my+GitHub+profile!;Let's+be+friends!)](https://git.io/typin)
+
 <h2 align="center"><strong>Hey there🫡</strong></h2>
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Carlos%Daniel&fontSize=70" />
 <h4 align="center">Aspiring anything (still working on it 😶‍🌫️) developer who whant to turn creative thinking into powerful solutions</h4>
 <p></p>
 <p></p>
