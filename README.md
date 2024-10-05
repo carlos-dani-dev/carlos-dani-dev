@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000CD&size=30&center=true&vCenter=true&width=1000&lines=Hey+There!+Sou+Carlos+Daniel.;Sou+um+entusiasta+de+IA!;Vem+conhecer+meus+projetos!)](https://git.io/typin)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=30&center=true&vCenter=true&width=1000&lines=Hey+There!;Me+chamo+Carlos+Daniel.;Sou+um+entusiasta+de+IA+e+queria+te+mostrar+meus+projetos!)](https://git.io/typin)
 
 <h2 align="center"><strong>Hey there🫡</strong></h2>
 <h4 align="center">Aspiring anything (still working on it 😶‍🌫️) developer who whant to turn creative thinking into powerful solutions</h4>
