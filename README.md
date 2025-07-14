@@ -8,7 +8,7 @@
 
 <h4 align="left">Also mine projects</h4>
 <p> The Massive Attribute Classifier, MAC <a href=''>Take a look</a></p>
-<p> A soccer team statistics comparator <a href=''>Take a look</a></p>
+<p> A soccer team statistics comparator <a href='https://github.com/carlos-dani-dev/soccer-team-statistics-comparator'>Take a look</a></p>
 <p> A official gazette searcher <a href=''>Take a look</a></p>
 <p> My software engineering college assignment using Amazon Web Service, AWS <a href=''>Take a look</a></p>
 
