@@ -8,7 +8,6 @@
 
 <h4 align="left">Also mine projects</h4>
 <p> The Massive Attribute Classifier, MAC <a href='https://github.com/carlos-dani-dev/massive-attribute-classifier'>Take a look</a></p>
-<p> A soccer team statistics comparator <a href='https://github.com/carlos-dani-dev/soccer-team-statistics-comparator'>Take a look</a></p>
 <p> A DOEPI webscrapper integration with Google Gemini <a href='https://github.com/carlos-dani-dev/doepi-gemini'>Take a look</a></p>
 
 <h4 align="left">Please, feel free to contact me</h4>
