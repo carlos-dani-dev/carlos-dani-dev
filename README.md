@@ -25,7 +25,7 @@
 
 <h3>Take a look at my favorite repos</h3>
 <p><a href="https://github.com/carlos-dani-dev/atos-ufpi-rag">Advanced RAG for searching the normative acts of the Federal University of Piauí</a><br>
-  <a>repo2</a><br>
+  <a href="https://github.com/carlos-dani-dev/software-de-formulario-generico-completo">Complete generic form software</a><br>
   <a>repo3</a>
 </p>
 
