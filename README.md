@@ -24,7 +24,10 @@
 <p><b>Development of a neural network for attribute annotation in large-scale datasets</b><br>Project related skills: </p>
 
 <h3>Take a look at my favorite repos</h3>
-<p><a>repo1</a><br><a>repo2</a><br><a>repo3</a></p>
+<p><a href="https://github.com/carlos-dani-dev/atos-ufpi-rag">Advanced RAG for searching the normative acts of the Federal University of Piauí</a><br>
+  <a>repo2</a><br>
+  <a>repo3</a>
+</p>
 
 ---
 
