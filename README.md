@@ -26,8 +26,8 @@
 ---
 
 <h3>Main courses documentation</h3>
-<p><a href="">Linux engineer complete course - Linux Force Brasil</a><br>
-  <a href="">LLM engineer complete course - Ed Donner</a><br>
+<p><a href="https://github.com/carlos-dani-dev/curso-completo-engenheiro-linux">Linux engineer complete course - Linux Force Brasil</a><br>
+  <a href="https://github.com/carlos-dani-dev/curso-completo-engenheiro-llm">LLM engineer complete course - Ed Donner</a><br>
   <a href="https://github.com/carlos-dani-dev/curso-completo-de-fastapi">FastAPI complete course - Eric Roby</a>
 </p>
 
