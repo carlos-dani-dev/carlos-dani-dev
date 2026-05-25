@@ -25,7 +25,7 @@
 
 ---
 
-<h3>Study, courses, guides documentation</h3>
+<h3>My main study and courses documentation</h3>
 <p><a href="">Linux engineer complete course - Linux Force Brasil</a><br>
   <a href="">LLM engineer complete course - Ed Donner</a><br>
   <a href="https://github.com/carlos-dani-dev/curso-completo-de-fastapi">FastAPI complete course - Eric Roby</a>
