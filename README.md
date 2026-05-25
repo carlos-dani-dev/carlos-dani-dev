@@ -23,13 +23,15 @@
 
 <p><b>Development of a neural network for attribute annotation in large-scale datasets</b><br>Project related skills: </p>
 
-<h3>Study, courses, guides...</h3>
+---
+
+<h3>Study, courses, guides documentation</h3>
 <p><a href="">Linux engineer complete course - Linux Force Brasil</a><br>
   <a href="">LLM engineer complete course - Ed Donner</a><br>
   <a href="https://github.com/carlos-dani-dev/curso-completo-de-fastapi">FastAPI complete course - Eric Roby</a>
 </p>
 
-<h3>Take a look at my favorite repos</h3>
+<h3>Some of my favorite repos</h3>
 <p><a href="https://github.com/carlos-dani-dev/atos-ufpi-rag">Advanced RAG for searching the normative acts of the Federal University of Piauí</a><br>
   <a href="https://github.com/carlos-dani-dev/software-de-formulario-generico-completo">Complete generic form software</a><br>
   <a href="https://github.com/carlos-dani-dev/ajuste-fino-do-cliente-de-chatbot-genai">Fine-tuning the GenAI chatbot client (Google's Generative AI SDK)</a>
