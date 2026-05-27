@@ -19,9 +19,8 @@
 <h3>Currently working on</h3>
 <p><b>Real-time monitoring of public policy implementation</b><br>Project related skills: </p>
 
-<p><b>Development of a neural network for attribute annotation in large-scale datasets</b><br>Project related skills: </p>
+<p><b><a href="https://github.com/carlos-dani-dev/classificador-massivo-de-atributos">Development of a neural network for attribute annotation in large-scale datasets</a></b><br>Project related skills: </p>
 
-<p><b>Development of a neural network for attribute annotation in large-scale datasets</b><br>Project related skills: </p>
 
 ---
 
