@@ -17,9 +17,10 @@
 ---
 
 <h3>Currently working on</h3>
-<p><b><a href="https://github.com/carlos-dani-dev/TaNaMesa-data-pipeline">Real-time monitoring of public policy implementation</a></b><br>Project related skills: </p>
+<p><b><a href="https://github.com/carlos-dani-dev/TaNaMesa-data-pipeline">Real-time monitoring of public policy implementation</a></b><br>Project related skills: 
+Data analysis, Data processing, Data visualization</p>
 
-<p><b><a href="https://github.com/carlos-dani-dev/classificador-massivo-de-atributos">Development of a neural network for attribute annotation in large-scale datasets</a></b><br>Project related skills: </p>
+<p><b><a href="https://github.com/carlos-dani-dev/classificador-massivo-de-atributos">Development of a neural network for attribute annotation in large-scale datasets</a></b><br>Project related skills: GPU, Machine Learning architecture, Tensorflow, Pandas</p>
 
 
 ---
